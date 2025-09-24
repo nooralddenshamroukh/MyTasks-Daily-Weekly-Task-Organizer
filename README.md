@@ -22,7 +22,7 @@ Organize tasks into **All / Today / Tomorrow / Weekend**, move items between box
 ---
  
 ## 🎥 Project Video
-📽️ Demo video posted on my [LinkedIn profile](https://www.linkedin.com/posts/nooralddenshamroukh-90b866366_as-part-of-my-front-end-learning-journey-activity-7376506763245834240-0Mvk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFrlU5sB1U_BrxfGLTw8OtUqfvfvRR57zzM)
+📽️ Demo video posted on my [LinkedIn profile](https://www.linkedin.com/posts/nooralddenshamroukh-90b866366_excited-to-share-my-new-project-mytasks-activity-7376504165734412288-MtGD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFrlU5sB1U_BrxfGLTw8OtUqfvfvRR57zzM)
 
 ---
 
