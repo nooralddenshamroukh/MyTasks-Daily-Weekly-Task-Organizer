@@ -58,6 +58,7 @@ Drag tasks between boxes to categorize them.
 Use Clear All in any box to remove all items in that box.
 
 🛠 Technologies
+
 HTML5
 
 CSS3 (responsive)
