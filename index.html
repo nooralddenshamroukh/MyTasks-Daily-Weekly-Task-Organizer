@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="MyTasks.css" />
+    <title>My Tasks</title>
+  </head>
+  <body>
+    <div class="inputs">
+      <h2>✨ My Tasks ✨</h2>
+      <div class="data">
+        <input type="text" id="inp" placeholder="Write your task..." />
+        <button id="btn">Add a task</button>
+      </div>
+    </div>
+
+    <div class="list">
+      <div class="box" data-box="all">
+        <h2>📋 All Tasks (<span class="count">0</span>)</h2>
+        <button class="clear-btn">Clear All</button>
+      </div>
+      <div class="box" data-box="today">
+        <h2>📝 Today Tasks (<span class="count">0</span>)</h2>
+        <button class="clear-btn">Clear All</button>
+      </div>
+      <div class="box" data-box="tomorrow">
+        <h2>📅 Tomorrow Tasks (<span class="count">0</span>)</h2>
+        <button class="clear-btn">Clear All</button>
+      </div>
+      <div class="box" data-box="weekend">
+        <h2>🌟 Weekend Tasks (<span class="count">0</span>)</h2>
+        <button class="clear-btn">Clear All</button>
+      </div>
+    </div>
+
+    <script src="MyTasks.js"></script>
+  </body>
+</html>
