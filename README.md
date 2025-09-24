@@ -17,7 +17,7 @@ Organize tasks into **All / Today / Tomorrow / Weekend**, move items between box
 ---
 
 ## 🌍 Live Demo
-🔗 [ Hosted demo ](https://nooralddenshamroukh.github.io/MyTasks-Daily-Weekly-Task-Organizer/)
+🔗 [ MyTasks ](https://nooralddenshamroukh.github.io/MyTasks-Daily-Weekly-Task-Organizer/)
 
 ---
  
